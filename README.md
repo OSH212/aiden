@@ -1,6 +1,6 @@
 Aiden chatbot
 
-inspired by Balaji @@balajis
+inspired by Balaji @balajis (https://x.com/balajis/status/1811618822987874489)
 
 
 - Install requirement:
