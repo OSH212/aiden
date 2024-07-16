@@ -1,0 +1,14 @@
+numpy
+cohere
+litellm
+python-dotenv
+loguru
+tqdm
+requests
+aiohttp
+nltk
+pydub
+moviepy
+glob2
+streamlit
+asyncio
